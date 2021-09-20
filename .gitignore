@@ -1,0 +1,8 @@
+**/nppBackup/
+**/Input/
+**/Build/Output/
+*.dta
+*.xml
+*.xls
+*.xlsx
+

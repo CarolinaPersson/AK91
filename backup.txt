@@ -1,0 +1,2 @@
+robocopy C:\Users\cape8126\Desktop\AEE1Folder\Task4\AK91 C:\Users\cape8126\Desktop\AEE1Folder\Task4\Backup_folder\AK91_backup /mir /np /log:C:\Users\cape8126\Desktop\AEE1Folder\task4\AK91_log.txt
+pause
