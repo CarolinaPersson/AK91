@@ -2,6 +2,8 @@ Task 4.1 Version control on GitHub for AK91 Code.
 
 This is folder Task4/AK91.
 
+This is ReadMeFirst file on branch issue1_r_impl
+
 This forlder contains the master program (do file), a project map (Excel), a gitignore file, 
 a git folder, a backup.bat file and three subfolders.
 
